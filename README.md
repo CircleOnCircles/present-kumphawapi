@@ -11,6 +11,8 @@ Good Stuff for lazy people in Kumphawapi
 ## Food
 - [Tyson Shopee](https://shopee.co.th/tyson?categoryId=100629&entryPoint=cart&itemId=13432987487) - best instant fried chicken
 
+## Home And Living
+- [IKEA](https://www.ikea.com/th/th/) - has postal send starting 99 Baht
 
 ## Construction
  - Thaiwatsadu
@@ -19,6 +21,7 @@ Good Stuff for lazy people in Kumphawapi
 - [Chem.rich Shopee](https://shopee.co.th/chem.rich?categoryId=100636&itemId=10570378945) - 
 
 ## Skin Care
+
 
 
 ## Shopee Favorites
