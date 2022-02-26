@@ -1,4 +1,4 @@
-# present-kumphawapi-door-delivery
+# present-kumphawapi
 Good Stuff for lazy people in Kumphawapi
 
 ##  Food
@@ -24,6 +24,7 @@ Good Stuff for lazy people in Kumphawapi
 - [Index Livingmall](https://www.indexlivingmall.com/) - good store for many things
 - Thaiwatsadu
 - [ifarm](https://www.ifarm.co.th/) - scientific tools for garden and farm
+- [Ocean](https://www.oceantableware.com) - good price glassware
 
 ## Chemical
 - [Chem.rich Shopee](https://shopee.co.th/chem.rich?categoryId=100636&itemId=10570378945) - 
