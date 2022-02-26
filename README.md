@@ -3,12 +3,13 @@ Good Stuff for lazy people in Kumphawapi
 
 ##  Food
 ### Fresh
+- [Paleo Robbie](https://paleorobbie.com) - Best Food Souring with certificates, Western Spices
 - [foodpanda](https://www.foodpanda.co.th/shop) - Lotus*2 + BigC
 - [Farm Chokchai](https://shop.chokchaisteakhouse.com) - Good for Chinese Sausage and Jerky
 
 #### In Future
 - [Tops](https://www.tops.co.th/th/) - has drive thru 🚗
-- [Makro Click](https://www.makroclick.com/th) - drive thru 🚗 + price compare site
+- [Makro Click](https://www.makroclick.com/th) - drive thru 🚗 + price compare site + buy in bulk
 
 ### Others
 - [Tyson Shopee](https://shopee.co.th/tyson?categoryId=100629&entryPoint=cart&itemId=13432987487) - best instant fried chicken
