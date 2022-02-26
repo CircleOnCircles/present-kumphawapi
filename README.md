@@ -13,6 +13,7 @@ Good Stuff for lazy people in Kumphawapi
 
 ## Home And Living
 - [IKEA](https://www.ikea.com/th/th/) - has postal send starting 99 Baht
+- [Index Livingmall](https://www.indexlivingmall.com/) - good store for many things
 
 ## Construction
  - Thaiwatsadu
