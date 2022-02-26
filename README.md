@@ -17,6 +17,7 @@ Good Stuff for lazy people in Kumphawapi
 ### Others
 - [Tyson Shopee](https://shopee.co.th/tyson?categoryId=100629&entryPoint=cart&itemId=13432987487) - best instant fried chicken
 - [LomaChef](https://www.lomachef.com) - premium dim som
+- [Konig](https://koenigthailand.com) - TH cast iron 
 
 ## Home And Living
 - [IKEA](https://www.ikea.com/th/th/) - has postal send starting 99 Baht
