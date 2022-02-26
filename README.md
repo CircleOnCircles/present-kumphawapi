@@ -7,6 +7,9 @@ Good Stuff for lazy people in Kumphawapi
 - [foodpanda](https://www.foodpanda.co.th/shop) - Lotus*2 + BigC
 - [Farm Chokchai](https://shop.chokchaisteakhouse.com) - Good for Chinese Sausage and Jerky
 
+### TESTING
+- [](https://passiondelivery.com/en/)
+
 #### In Future
 - [Tops](https://www.tops.co.th/th/) - has drive thru 🚗
 - [Makro Click](https://www.makroclick.com/th) - drive thru 🚗 + price compare site + buy in bulk
@@ -16,7 +19,7 @@ Good Stuff for lazy people in Kumphawapi
 
 ## Home And Living
 - [IKEA](https://www.ikea.com/th/th/) - has postal send starting 99 Baht
-- 
+- [decathlon](https://www.decathlon.co.th/th/) - inexpensive and quality sport stuff
 - [Index Livingmall](https://www.indexlivingmall.com/) - good store for many things
 - Thaiwatsadu
 - [ifarm](https://www.ifarm.co.th/) - scientific tools for garden and farm
