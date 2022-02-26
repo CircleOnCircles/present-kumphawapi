@@ -19,6 +19,7 @@ Good Stuff for lazy people in Kumphawapi
 - 
 - [Index Livingmall](https://www.indexlivingmall.com/) - good store for many things
 - Thaiwatsadu
+- [ifarm](https://www.ifarm.co.th/) - scientific tools for garden and farm
 
 ## Chemical
 - [Chem.rich Shopee](https://shopee.co.th/chem.rich?categoryId=100636&itemId=10570378945) - 
