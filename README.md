@@ -4,6 +4,7 @@ Good Stuff for lazy people in Kumphawapi
 ##  Food
 ### Fresh
 - [Paleo Robbie](https://paleorobbie.com) - Best Food Souring with certificates, Western Spices
+- [Uncle Boss](https://www.facebook.com/uncleboss109/) - Best German Sausage
 - [foodpanda](https://www.foodpanda.co.th/shop) - Lotus*2 + BigC
 - [Farm Chokchai](https://shop.chokchaisteakhouse.com) - Good for Chinese Sausage and Jerky
 
